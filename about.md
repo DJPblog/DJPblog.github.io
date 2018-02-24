@@ -12,4 +12,4 @@ Currently studying an MSc in Cyber Security at the University of York
 
 ### Contact me
 
-[djp547@york.ac.uk](mailto:djp547@york.ac.uk
+[djp547@york.ac.uk](mailto:djp547@york.ac.uk)
