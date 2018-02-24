@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently studying an MSc in Cyber Security at the University of York
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+***
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[djp547@york.ac.uk](mailto:djp547@york.ac.uk
