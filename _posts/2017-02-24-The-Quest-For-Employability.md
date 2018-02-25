@@ -16,7 +16,7 @@ The practice issue Google provided was named 'Pizza' and the aim was to slice th
 
 This leaves you something like the below, which is the small pizza grid specifications. 
 
-<center> ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.11.png) </center>
+![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.11.png)
 
 In this case each slice needed to have 1 of each ingredient per slice with a maximum slice size of 5. The aim is to create an algorithm to use as many of the grids as possible. 
 
