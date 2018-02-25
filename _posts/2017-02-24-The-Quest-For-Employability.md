@@ -20,4 +20,4 @@ The practice issue Google provided was named 'Pizza' and the aim was to slice th
 
 This leaves you something like the below, which is the small pizza grid specifications. 
 
-![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.11)
+![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.11.png)
