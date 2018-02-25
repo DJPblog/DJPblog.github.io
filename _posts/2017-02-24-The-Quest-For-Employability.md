@@ -38,6 +38,8 @@ As can be seen the 2nd and 4th checks are the most suitable, however as they are
 
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.40.png)
 
+<img src="/images/Screen Shot 2018-02-25 at 17.58.40.png align="middle">
+
 After this process has ran through a couple of times the pizza will look like this. Leaving 41/42 of the pizza slices fitting the specification.
 
 This solution was found in about 30 minutes due to time restraints, so the full 42 slices couldn't be filled. If you had a solution that managed to fill all slices, I'd enjoy hearing from you. 
