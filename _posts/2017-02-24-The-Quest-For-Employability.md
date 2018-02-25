@@ -36,9 +36,7 @@ The grid below shows how the first in paired piece would look around:
 
 As can be seen the 2nd and 4th checks are the most suitable, however as they are the same size the chosen slice is the first checked out of the two, so will join slice check two. After this process has been completed a couple of times the pizza will look like this. 
 
-![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.40.png)
-
-<img src="/images/Screen Shot 2018-02-25 at 17.58.40.png align="middle">
+![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.40.png align="middle")
 
 After this process has ran through a couple of times the pizza will look like this. Leaving 41/42 of the pizza slices fitting the specification.
 
