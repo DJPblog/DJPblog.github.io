@@ -22,7 +22,7 @@ In this case each slice needed to have 1 of each ingredient per slice with a max
 
 <center><b>Our Solution</b></center> 
 
-<b>Spoiler alert:</b> this may be the worst spoiler alert ever given but if you want to try and figure it out for yourself don't read on. 
+<b>Spoiler alert:</b> This may be the worst spoiler alert ever given, but if you want to try and figure it out for yourself don't read on. 
 
 We decided that initially we would go through horizontally pairing adjacent T and Ms and then do the same horizontally. This initially left us with something like this:
 
