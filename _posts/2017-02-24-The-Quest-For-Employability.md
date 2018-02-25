@@ -18,4 +18,6 @@ The practice issue Google provided was named 'Pizza' and the aim was to slice th
   <li>The column and row size of the pizza</li>
 </ul> 
 
-This leaves you something lie the below, which is the small pizza grid specifications. 
+This leaves you something like the below, which is the small pizza grid specifications. 
+
+
