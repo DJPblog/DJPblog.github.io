@@ -26,7 +26,7 @@ In this case each slice needed to have 1 of each ingredient per slice with a max
 
 <b>Spoiler alert:</b> This may be the worst spoiler alert ever given, but if you want to try and figure it out for yourself don't read on. 
 
-We decided that initially we would go through horizontally pairing adjacent T and Ms and then do the same horizontally. This initially left us with something like this:
+We decided that initially we would go through horizontally pairing adjacent T and Ms and then do the same vertically. This initially left us with something like this:
 
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-02-25 at 17.58.22.png)
 
